@@ -1,0 +1,43 @@
+{
+	"year": 3,
+	"section": "B",
+	"classTeacher": "HariKrishnan",
+	"studentDetails": [
+		{
+			"name": "santhose",
+			"fatherName": "kathir",
+			"hobbie": "criket",
+			"mobileNo": 569565566998,
+			"reAdmission": false
+		},
+		{
+			"name": "vishnu",
+			"fatherName": "barath",
+			"hobbie": "football",
+			"mobileNo": 9987666669,
+			"reAdmission": false
+		},
+		{
+			"name": "mala",
+			"fatherName": "vinoth",
+			"hobbie": "carom",
+			"mobileNo": 9898989898,
+			"reAdmission": true
+		},
+		{
+			"name": "sanjay",
+			"fatherName": "veda",
+			"hobbie": "vollyball",
+			"mobileNo": 89646659846,
+			"reAdmission": false
+		},
+		{
+			"name": "kumar",
+			"fatherName": "malai",
+			"hobbie": "criket",
+			"mobileNo": 8976544236,
+			"reAdmission": true
+		}
+	],
+	"department": "mechanical"
+}

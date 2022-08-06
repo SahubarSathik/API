@@ -1,0 +1,22 @@
+{
+	"name": "sathik",
+	"age": 32,
+	"hobbie": "reading",
+	"girlfriends": [
+		{
+			"first": "arulmozhi",
+			"middle": "Hinduja",
+			"last": "benazir"
+		},
+		{
+			"first": "arulmozhi",
+			"middle": "Hinduja",
+			"last": "benazir"
+		},
+		{
+			"first": "arulmozhi",
+			"middle": "Hinduja",
+			"last": "benazir"
+		}
+	]
+}
